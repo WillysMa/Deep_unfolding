@@ -6,7 +6,7 @@
 # @Time: 2022-12-14 1:35 PM
 '''
 from Gen_Data import *
-from Global_Vars import *
+from Global_Var import *
 
 dataloader_tr = Data_Fetch(file_dir=dataset_file,
                            file_name=train_data_name,
